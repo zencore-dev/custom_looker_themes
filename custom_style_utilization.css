@@ -82,11 +82,17 @@ thead tr:first-child th {
   border-top: 1px solid #CCCCCC;
 }
 
+thead tr:fist-child th {
+  text-align:center !important;
+}
+
+thead tr:last-child th {
+  text-align: left !important;
+}
 
 .headerCell {
   font-weight: bold;
   padding: 5px;
-  text-align: center !important;
   border-bottom: 1px solid #CCCCCC;
 }
 
