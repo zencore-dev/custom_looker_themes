@@ -62,6 +62,10 @@ table.reportTable td {
   border-collapse: collapse;
 }
 
+table.reportTable td:nth-last-child(2) {
+  border-left: 2px solid #000;
+}
+
 thead {
   position: sticky;
   top: 0;
