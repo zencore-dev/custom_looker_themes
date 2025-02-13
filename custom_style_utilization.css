@@ -59,7 +59,6 @@ table.reportTable th {
 table.reportTable td {
   vertical-align: super;
   padding: 5px;
-  //border: 1px solid #CCCCCC; 
   border-collapse: collapse;
 }
 
@@ -82,7 +81,7 @@ thead tr:first-child th {
   border-top: 1px solid #CCCCCC;
 }
 
-thead tr:fist-child th {
+thead tr:first-child th {
   text-align:center !important;
 }
 
